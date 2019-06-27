@@ -1,0 +1,1 @@
+document.querySelector("#textValue").placeholder = "0";
